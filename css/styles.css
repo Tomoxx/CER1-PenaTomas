@@ -1,0 +1,52 @@
+@font-face {
+    font-family: 'Ailerons';
+    src: url('Ailerons-TrialVersion.otf') format("opentype");
+}
+
+#backGround1 {
+    background-image: url(../img/New\ Nathalia\ Night.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    background-color: #0a0908;
+    width: 100vw;
+    height: 100vh;
+}
+
+#centerTitle {
+    font-family: 'Ailerons';
+    font-size: 10vw;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #ebf2fa;
+    width: 100vw;
+    height: 100vh;
+}
+
+#whytop {
+    width: 100vw;
+    height: 95vh;
+}
+
+
+#why {
+    align-items: center;
+    justify-content: center;
+    width: 100vw;
+    height: 5vh;
+}
+
+#backGround2{
+    background-image: url(../img/New\ Nathalia\ Sunset.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    background-color: #0a0908;
+    width: 100vw;
+    height: 100vh;
+}
+
+#navbar {
+    font-family: 'Ailerons';
+}
