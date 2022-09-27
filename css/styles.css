@@ -24,18 +24,6 @@
     height: 100vh;
 }
 
-#whytop {
-    width: 100vw;
-    height: 95vh;
-}
-
-
-#why {
-    align-items: center;
-    justify-content: center;
-    width: 100vw;
-    height: 5vh;
-}
 
 #backGround2{
     background-image: url(../img/New\ Nathalia\ Sunset.png);
@@ -43,6 +31,17 @@
     background-position: center;
     background-size: cover;
     background-color: #0a0908;
+    width: 100vw;
+    height: 100vh;
+}
+
+#centerDescription {
+    font-family: 'Ailerons';
+    font-size: 5vw;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #ebf2fa;
     width: 100vw;
     height: 100vh;
 }
