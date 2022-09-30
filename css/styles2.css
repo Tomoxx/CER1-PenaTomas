@@ -1,11 +1,9 @@
 .carousel-item,
 #carouselMain {
-    object-fit: cover;
-    object-position: center;
+
     width: 100vw;
     height: 100vh;
     overflow: hidden;
-    background-color: #0a0908;
 }
 
 .carousel-inner {}
@@ -29,6 +27,15 @@
     height: 100vh;
 }
 
-.progress {
+.progress {}
+
+.backGround4 {
+    background-image: url(../img/pexels-roberto-nickson-2559941.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    background-color: #0a0908;
+    width: 100vw;
+    height: 100vh;
     
 }
