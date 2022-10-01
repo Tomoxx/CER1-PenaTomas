@@ -1,0 +1,7 @@
+body {
+    background-image: url(../img/pexels-roberto-nickson-2559941.jpg);
+    background-repeat:repeat-y;
+    background-attachment: fixed;
+    background-size: cover;
+    background-color: #0a0908;
+}
